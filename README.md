@@ -179,12 +179,12 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of proteus  :
 
-![Screenshot 2024-10-29 123709](https://github.com/user-attachments/assets/edebae38-42a8-4d83-bec5-ecd4d9e60139)
+![gowtham micro controller](https://github.com/user-attachments/assets/b33ef677-aebf-4f71-9130-7086cdd71246)
 
 
-![WhatsApp Image 2024-10-29 at 12 37 51 PM](https://github.com/user-attachments/assets/177418e1-dda5-4fb7-96ff-ff15714a8fc0)
 
- 
+ ![gowtham pmc](https://github.com/user-attachments/assets/b25aaebc-3510-430d-b69a-a915c9bb8256)
+
  
  
  
